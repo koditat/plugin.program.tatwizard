@@ -17,7 +17,7 @@ ADDONTITLE = '[COLOR limegreen][B]TAT[/B][/COLOR]Wizard'
 BUILDERNAME = 'TATWizard'
 EXCLUDES = [ADDON_ID, 'repository.tatwizard']
 # Text File with build info in it. Please read https://github.com/tat-wizard/plugin.program.tatwizard/wiki/Installing-Builds
-BUILDFILE = 'http://'
+BUILDFILE = 'https://raw.githubusercontent.com/tat-wizard/plugin.program.tatwizard/master/resources/text/builds.txt'
 # How often you would like it to check for build updates in days
 # 0 being every startup of kodi
 UPDATECHECK = 0
