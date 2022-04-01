@@ -109,7 +109,7 @@ REPOZIPURL = 'https://raw.githubusercontent.com/tat-wizard/repository.tatwizard/
 # Enable Notification screen Yes or No
 ENABLE = 'Yes'
 # Url to notification file
-NOTIFICATION = 'http://'
+NOTIFICATION = 'https://raw.githubusercontent.com/tat-wizard/plugin.program.tatwizard/master/resources/text/notify.txt'
 # Use either 'Text' or 'Image'
 HEADERTYPE = 'Text'
 # Font size of header
