@@ -107,7 +107,7 @@ REPOZIPURL = 'https://raw.githubusercontent.com/tat-wizard/repository.tatwizard/
 #        Notification Window                            #
 #########################################################
 # Enable Notification screen Yes or No
-ENABLE = 'Yes'
+ENABLE = 'No'
 # Url to notification file
 NOTIFICATION = 'https://raw.githubusercontent.com/tat-wizard/plugin.program.tatwizard/master/resources/text/notify.txt'
 # Use either 'Text' or 'Image'
