@@ -13,7 +13,7 @@ icon="https://raw.githubusercontent.com/tat-wizard/repository.tatwizard/master/r
 fanart="https://raw.githubusercontent.com/tat-wizard/repository.tatwizard/master/repository.tatwizard/fanart.jpg"
 preview="http://"
 adult="no"
-info="https://www.dropbox.com/s/jsgu5s2qvrleycv/info.txt?dl=1"
+info="http://"
 description="Ultra Build - Movies, TV Shows & Live TV Channels"
 
 name="Lite Build"
@@ -27,7 +27,7 @@ icon="https://raw.githubusercontent.com/tat-wizard/repository.tatwizard/master/r
 fanart="https://raw.githubusercontent.com/tat-wizard/repository.tatwizard/master/repository.tatwizard/fanart.jpg"
 preview="https://www.youtube.com/watch?v=L_jWHffIx5E"
 adult="no"
-info="https://www.dropbox.com/s/3vgrachrp24eflj/info.txt?dl=1"
+info="http://"
 description="Lite Build - Movies, TV Shows & Live TV Channels"
 
 name="OTT Touch Build"
@@ -41,7 +41,7 @@ icon="https://raw.githubusercontent.com/tat-wizard/repository.tatwizard/master/r
 fanart="https://raw.githubusercontent.com/tat-wizard/repository.tatwizard/master/repository.tatwizard/fanart.jpg"
 preview="https://www.youtube.com/watch?v=L_jWHffIx5E"
 adult="no"
-info="https://www.dropbox.com/s/umd3no603g7rwm6/info.txt?dl=1"
+info="http://"
 description="Movies & TV Shows for touch screens"
 
 name="OTT Build"
@@ -55,7 +55,7 @@ icon="https://raw.githubusercontent.com/tat-wizard/repository.tatwizard/master/r
 fanart="https://raw.githubusercontent.com/tat-wizard/repository.tatwizard/master/repository.tatwizard/fanart.jpg"
 preview="https://www.youtube.com/watch?v=L_jWHffIx5E"
 adult="no"
-info="https://www.dropbox.com/s/hi0ov1v83gzk2li/info.txt?dl=1"
+info="http://"
 description="Movies & TV Shows"
 
 name="Live TV Build"
@@ -69,5 +69,5 @@ icon="https://raw.githubusercontent.com/tat-wizard/repository.tatwizard/master/r
 fanart="https://raw.githubusercontent.com/tat-wizard/repository.tatwizard/master/repository.tatwizard/fanart.jpg"
 preview="https://www.youtube.com/watch?v=L_jWHffIx5E"
 adult="no"
-info="https://www.dropbox.com/s/jaafa697r6q6dn8/info.txt?dl=1"
+info="http://"
 description="Live TV Channels, Sports, Highlights & Replays"
