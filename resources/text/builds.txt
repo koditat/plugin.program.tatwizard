@@ -31,7 +31,7 @@ info="http://"
 description="Lite Build - Movies, TV Shows & Live TV Channels"
 
 name="OTT Touch Build"
-version="1.1"
+version="1.2"
 url="https://www.dropbox.com/s/wgve7jhxuv0sc4w/TATBuild.zip?dl=1"
 minor="http://"
 gui="https://www.dropbox.com/s/n6j6pwk2nmtizvu/guisettings.xml?dl=1"
