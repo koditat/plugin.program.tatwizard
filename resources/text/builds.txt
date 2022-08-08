@@ -1,5 +1,5 @@
 id="plugin.program.tatwizard"
-version="2.6.0"
+version="2.7.0"
 zip="https://raw.githubusercontent.com/koditat/repo/master/zips/plugin.program.tatwizard/plugin.program.tatwizard-2.7.0.zip"
 
 name="OTT"
