@@ -3,7 +3,7 @@ version="2.7.0"
 zip="https://raw.githubusercontent.com/koditat/repo/master/zips/plugin.program.tatwizard/plugin.program.tatwizard-2.7.0.zip"
 
 name="OTT"
-version="1.9"
+version="2.0"
 url="https://www.dropbox.com/s/wgve7jhxuv0sc4w/TATBuild.zip?dl=1"
 minor="http://"
 gui="url.to.guisettings"
