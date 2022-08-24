@@ -16,8 +16,8 @@ ART = os.path.join(PATH, 'resources', 'media')
 ADDONTITLE = '[COLOR limegreen][B]TAT[/B][/COLOR]Wizard'
 BUILDERNAME = 'TATWizard'
 EXCLUDES = [ADDON_ID, 'repo']
-# Text File with build info in it. Please read https://github.com/koditat/plugin.program.tatwizard/wiki/Installing-Builds
-BUILDFILE = 'https://raw.githubusercontent.com/koditat/plugin.program.tatwizard/master/resources/text/builds.txt'
+# Text File with build info in it. Please read https://github.com/tatkodi/plugin.program.tatwizard/wiki/Installing-Builds
+BUILDFILE = 'https://raw.githubusercontent.com/tatkodi/plugin.program.tatwizard/master/resources/text/builds.txt'
 # How often you would like it to check for build updates in days
 # 0 being every startup of kodi
 UPDATECHECK = 0
@@ -77,7 +77,7 @@ THEME5 = u'[COLOR {color1}]Current Theme:[/COLOR] [COLOR {color2}]{{}}[/COLOR]'.
 # Enable 'Contact' menu item 'Yes' hide or 'No' dont hide
 HIDECONTACT = 'No'
 # You can add \n to do line breaks
-CONTACT = 'Thank you for choosing TATWizard.\n\nContact us on Github at https://github.com/koditat/plugin.program.tatwizard/'
+CONTACT = 'Thank you for choosing TATWizard.\n\nContact us on Github at https://github.com/tatkodi/plugin.program.tatwizard/'
 # Images used for the contact window.  http:// for default icon and fanart
 CONTACTICON = os.path.join(ART, 'qricon.png')
 CONTACTFANART = 'http://'
@@ -98,9 +98,9 @@ AUTOINSTALL = 'Yes'
 # Addon ID for the repository
 REPOID = 'repo'
 # Url to Addons.xml file in your repo folder(this is so we can get the latest version)
-REPOADDONXML = 'https://raw.githubusercontent.com/koditat/repo/master/zips/addons.xml'
+REPOADDONXML = 'https://raw.githubusercontent.com/tatkodi/repo/master/zips/addons.xml'
 # Url to folder zip is located in
-REPOZIPURL = 'https://raw.githubusercontent.com/koditat/repo/master/zips/repo/'
+REPOZIPURL = 'https://raw.githubusercontent.com/tatkodi/repo/master/zips/repo/'
 #########################################################
 
 #########################################################
@@ -109,7 +109,7 @@ REPOZIPURL = 'https://raw.githubusercontent.com/koditat/repo/master/zips/repo/'
 # Enable Notification screen Yes or No
 ENABLE = 'No'
 # Url to notification file
-NOTIFICATION = 'https://raw.githubusercontent.com/koditat/plugin.program.tatwizard/master/resources/text/notify.txt'
+NOTIFICATION = 'https://raw.githubusercontent.com/tatkodi/plugin.program.tatwizard/master/resources/text/notify.txt'
 # Use either 'Text' or 'Image'
 HEADERTYPE = 'Text'
 # Font size of header
